@@ -1,0 +1,15 @@
+{
+  "name": "mongoosejs",
+  "version": "1.0.0",
+  "description": "the first website using mongo and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shams ur rhamna",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.12",
+    "validator": "^13.7.0"
+  }
+}
